@@ -1,25 +1,20 @@
-# replace this text with your title (it will be automatically copied and used for the online visualization)
+# Monitoring the Live Mass of Penguins Using Satellite Imagery
 
 ## description:
-replace this text with description (short description, not more than 200 characters)
-
+Das Projekt beschäftigt sich mit der Vorhersage des Körpergewichts von Pinguinen. Hierzu wird die Flügellänge als exogene Variable einer einfachen linearen Regression verwendet. Besonderer Fokus wird hierbei auf die Mathematik dahinter gelegt.
 
 ### participants:
-replace this text with the name and surnames of all the students who participated
-
-
-### contact information:
-replace this text with the contact information: a mail or a place to find information
+Andreas Gatz
+Sandra Krause
+Anke Schürmann
+Annika Strupp
 
 ### course:
-replace this text with the name of the course, please copy it from the website
-
+Mathematik für maschinelles Lernen
 
 ### semester:
-replace this text with semester and year in the form "SoSe2021" or "WiSe2122" (SoSe only have one year, WiSe always has 2 years, so just two numbers per year)
+SoSe2023
 
 ### data:
-replace this text with short information about the data? was it personal, available online, from a company?
-
-### website:
-does your project have a website/webapp? otherwise the project folder will link only to the code (if you add a website there will be two links)
+Verwendet wurde ein auf Kaggle frei zugänglicher Datensatz. Dieser enthält Daten zu 343 beobachteten erwachsenen Pinguinen.
+https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data
