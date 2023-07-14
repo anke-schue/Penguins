@@ -4,9 +4,9 @@
 Das Projekt beschäftigt sich mit der Vorhersage des Körpergewichts von Pinguinen. Hierzu wird die Flügellänge als exogene Variable einer einfachen linearen Regression verwendet. Besonderer Fokus wird hierbei auf die Mathematik dahinter gelegt.
 
 ### participants:
-Andreas Gatz
-Sandra Krause
-Anke Schürmann
+Andreas Gatz, 
+Sandra Krause,
+Anke Schürmann,
 Annika Strupp
 
 ### course:
